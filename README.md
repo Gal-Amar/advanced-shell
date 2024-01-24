@@ -1,5 +1,14 @@
-# advanced-shell
-Custom shell built on top of Linux shell. 
-New shell supported all existing commands that exist in Linux shell and adds additional commands:
+# Advanced-Shell
+This custom shell, developed in C, extends the functionality of the Linux shell by incorporating additional features. The primary goal is to support all existing Linux shell commands while introducing new capabilities.
 
-Creating an exam file and solution file, enables to solve the exam, checks the answers and calculate the grade.
+Key Features:
+Extended Command Set:
+
+The shell seamlessly supports all standard Linux shell commands, ensuring compatibility with existing workflows.
+Exam Management:
+
+Introduces new commands for creating exam files and solution files.
+Enables users to solve exams within the shell environment.
+Automated Grading System:
+
+Facilitates checking of answers and automates the calculation of grades.
